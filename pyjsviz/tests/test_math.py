@@ -1,2 +1,11 @@
 def test_addition():
-	assert 2+2 == 4
+	"""_summary_
+	"""
+	assert (2+2) == 4
+
+
+def test_substraction():
+	"""_summary_
+	"""
+	assert (2-(2)) == 0
+
