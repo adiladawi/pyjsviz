@@ -8,4 +8,3 @@ def test_substraction():
 	"""_summary_
 	"""
 	assert (2-(2)) == 0
-
