@@ -1,2 +1,0 @@
-brython==3.3.2
-brython-pack==0.0.1
