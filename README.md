@@ -1,5 +1,7 @@
 # pyjsviz
 
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+
 Jan 2022
 
 this is my first application im trying to build and contribue back to the open source commuinty
