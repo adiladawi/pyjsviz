@@ -1,2 +1,4 @@
 .pytest_cache/v/cache
 pyjsviz.egg-info/*
+.vscode/*
+.gitignore
