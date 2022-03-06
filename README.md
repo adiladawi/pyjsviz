@@ -6,6 +6,8 @@
 
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 
+[![.github/workflows/test.yaml](https://github.com/adiladawi/pyjsviz/actions/workflows/test.yaml/badge.svg)](https://github.com/adiladawi/pyjsviz/actions/workflows/test.yaml)
+
 Jan 2022
 
 this is my first application im trying to build and contribue back to the open source commuinty
