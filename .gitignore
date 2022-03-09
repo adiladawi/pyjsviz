@@ -2,3 +2,5 @@
 pyjsviz.egg-info/*
 .vscode/*
 .gitignore
+pyjsviz/__pycache__/*
+pyjsviz/translation/echarts/__pycache__/*

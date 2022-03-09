@@ -1,1 +1,1 @@
-from translation.Options.setoption import SetOption
+import translation.echarts.Options.setoption
