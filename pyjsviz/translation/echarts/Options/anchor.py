@@ -7,6 +7,12 @@ from pydantic import BaseModel
 
 
 class Anchor(BaseModel):
+    """_summary_
+
+    Args:
+        BaseModel (_type_): base model from pydantic
+    """
+
     show: bool = True
     showAbove: bool = False
     size: int = 6
