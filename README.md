@@ -6,6 +6,8 @@
 
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 
+[![Documentation Status](https://readthedocs.com/projects/adel-ahmed-pyjsviz/badge/?version=latest&token=1ced2f5b54e1de45d939ed405eb190cfa739c20ffeb5182268c5e8e88b18b682)](https://adel-ahmed-pyjsviz.readthedocs-hosted.com/en/latest/?badge=latest)
+
 Jan 2022
 
 this is my first application im trying to build and contribue back to the open source commuinty
